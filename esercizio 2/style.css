@@ -4,4 +4,68 @@ body {
     padding: 20px;
 }
 
+#problema1{
+    color: red;
+}
+#Problema2{
+    color: green;
+    font-size: 20px;
+}
+#Problema3{
+    color: blue;
+    font-weight: bold;
+}
+#Problema4{
+    color: orange;
+    font-style: italic;
+}
+#Problema5{
+    background-color: green;
+    color: white;
+    border: none;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+#Problema6{
+    background-color: red;
+    color: white;
+    border: 2px solid black ;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    
+}
+
+#Problema7{
+background-color: pink;
+height: 30vh;
+}
+
+#Problema8{
+    background-color: lightblue;
+    height: 30vh;
+    width: 50%;
+}
+
+#problema9:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+    
+}
+
+#Problema10:hover{
+    color: blue;
+    cursor: pointer;
+
+}
+#Problema11:hover{
+    color: aqua;
+    background-color: green;
+    cursor: pointer;
+
+}
+
 /* Inserisci qui di seguito il css necessario per completare gli esercizi */
