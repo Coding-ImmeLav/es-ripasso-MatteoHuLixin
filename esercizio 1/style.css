@@ -22,30 +22,50 @@ button {
 
 #primo {
     /* inserisci qui il codice per il primo elemento*/
+    justify-content: center;
+    align-items: center;
+    display: flex;
 }
 
 #secondo {
     /* inserisci qui il codice per il secondo elemento*/
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+
 }
 
 #terzo {
     /* inserisci qui il codice per il terzo elemento*/
+    display: flex;
+    justify-content: end;
+    text-align: end;
+    align-items: end;
 }
 
 #quarto {
     /* inserisci qui il codice per il quarto elemento*/
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
 }
 
 #quinto {
+    display: flex;
     /* inserisci qui il codice per il quinto elemento*/
 }
 
 #verde {
     background-color: lightseagreen;
+    justify-content: start;
+    width: 50%;
 
 }
 
 #blu {
     background-color: lightskyblue;
+    justify-content: end;
+    width: 50%;
+    
 }
 
